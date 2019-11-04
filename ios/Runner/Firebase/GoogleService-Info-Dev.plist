@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>595087677702-0mhe9dsm3cas74iicvkfkjie3rf1ttf9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.595087677702-0mhe9dsm3cas74iicvkfkjie3rf1ttf9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2hRRIVr6xm183s4mZ9-TMXhmC_0GvhJk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>595087677702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tullahnazari.GameTalk</string>
+	<key>PROJECT_ID</key>
+	<string>gametalk-8facc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gametalk-8facc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:595087677702:ios:1e8b8f60d2f7c11416a687</string>
+	<key>DATABASE_URL</key>
+	<string>https://gametalk-8facc.firebaseio.com</string>
+</dict>
+</plist>

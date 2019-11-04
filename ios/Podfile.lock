@@ -207,6 +207,7 @@ DEPENDENCIES:
   - image_picker (from `.symlinks/plugins/image_picker/ios`)
   - media_picker_builder (from `.symlinks/plugins/media_picker_builder/ios`)
   - pinch_zoom_image (from `.symlinks/plugins/pinch_zoom_image/ios`)
+  - Protobuf
   - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
 
 SPEC REPOS:
@@ -271,7 +272,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   BoringSSL-GRPC: db8764df3204ccea016e1c8dd15d9a9ad63ff318
-  cloud_firestore: 0ac494d23db743f104b95d3291946afec187b74c
+  cloud_firestore: c9493dd01ad88934d926e18cc5a92a0129bf2c32
   Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
   Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
   Firebase: 9cbe4e5b5eaafa05dc932be58b7c8c3820d71e88
@@ -279,7 +280,7 @@ SPEC CHECKSUMS:
   firebase_auth: 1e3b7bdd37b9fbd4ef75ba1d985b00be09e02d3d
   firebase_core: ae55ea92448ec8675d325da4db22cf3b4d58a54d
   firebase_crashlytics: 6b8e7358dbac1359c1e29e0796adf48eddef99c9
-  firebase_messaging: acdcd2edbe7270bae6c3a93cf6c60e86538b3064
+  firebase_messaging: 0d5c04cc40f58bd4bf7f2992c91050f9bc01bec3
   firebase_storage: 52b0c06e27af628b627be28d32b4b540f6b67cf7
   FirebaseAnalytics: 843c7f64a8f9c79f0d03281197ebe7bb1d58d477
   FirebaseAnalyticsInterop: d48b6ab67bcf016a05e55b71fc39c61c0cb6b7f3
@@ -312,6 +313,6 @@ SPEC CHECKSUMS:
   Protobuf: 67fb42ba613def994e61854de2b3164f13790cc4
   url_launcher: 0067ddb8f10d36786672aa0722a21717dba3a298
 
-PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+PODFILE CHECKSUM: 42f84a3625b747aaacc66120c199056995bbdc79
 
-COCOAPODS: 1.8.1
+COCOAPODS: 1.8.4

@@ -43,7 +43,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "de.janoodle.circlesApp"
+        applicationId "com.tullahnazari.gametalk"
         minSdkVersion 21 // avoid max 64k method limit
         targetSdkVersion 29
 
@@ -92,7 +92,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-
+    implementation 'com.google.firebase:firebase-analytics:17.2.0'
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.0'
 
     implementation "androidx.work:work-runtime-ktx:2.2.0"
